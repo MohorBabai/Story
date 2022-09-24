@@ -1,0 +1,6 @@
+1) Normal mode : You can just view your text and navigate through it.
+
+2) Insert mode : Insert mode allows you to make changes to your code. To enter insert mode, hit the "Escape" key and type in "i". 
+
+3) Command mode : The command mode is for specifying commands to exit, save ypur work, and perform other operations. To enter command line mode hit the "Escape" key and then type in the colon ":". 
+
